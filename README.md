@@ -1,7 +1,7 @@
 # Programming Assignment 7
 
 ## Authors 
-* **[Francisco Gomez](https://github.com/fgomez7) **
+* **[Francisco Gomez](https://github.com/fgomez7)**
 
 BigInteger.c needed to be implemented in order to calculate
 the outcome of big integers/numbers that  cannot be calculated with the standard
@@ -48,4 +48,8 @@ and List.h. It works to accommodate the basic arithmetic operations (addition, s
 with 10 different really big numbers that aren't able to be calculated through the basic standard functions in lower level languages.
 It works fine, although the final test case 5, takes roughly 20 seconds to completely spit out the final
 and correct result but at least it works and when tested in the timeshare, it passes as well.
+
+## License
+
+This Project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
 
