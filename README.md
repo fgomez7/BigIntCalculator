@@ -1,8 +1,9 @@
-#Programming Assignment 7
+# Programming Assignment 7
 
-by: Francisco Gomez
+## Authors 
+* **[Francisco Gomez](https://github.com/fgomez7) **
 
-For this assignment, BigInteger.c needed to be implemented in order to calculate
+BigInteger.c needed to be implemented in order to calculate
 the outcome of big integers/numbers that  cannot be calculated with the standard
 arithmetic operations from c or other programming languages for that matter. So low level
 languages require string implementation as well as normalization and other functions
@@ -48,11 +49,3 @@ with 10 different really big numbers that aren't able to be calculated through t
 It works fine, although the final test case 5, takes roughly 20 seconds to completely spit out the final
 and correct result but at least it works and when tested in the timeshare, it passes as well.
 
-__Makefile:__
-holds the set of directives which defines tasks that need to be
-executed in order to compile my program.
-
-__README.md:__
-A simple markdown file which gives a short summary of all the files
-that I need to turn in and that are needed to turn in in order to
-finish this programming assignment.
